@@ -1,27 +1,23 @@
 # JvWeather
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+Esse repositório é um projeto do bootcamp Angular Developer da Digital Innovation One.
+Projeto realizado com angular 9.
 
-## Development server
+## Stack utilizada no frontend:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Angular 12
+bootstrap jquery
 
-## Code scaffolding
+## Instale as dependencias do angular global ou localmente
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+npm i
 
-## Build
+npm install --legacy-peer-deps
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+# Crie uma conta na open weather api
 
-## Running unit tests
+cole a sua api key gerada no arquivo environment.ts e environment.prod.ts
+Execute o frontend:
+ng serve -open
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+porta -> localhost:4200
