@@ -1,6 +1,7 @@
 # JvWeather
 
 Esse repositório é um projeto do bootcamp Angular Developer da Digital Innovation One.
+
 Projeto realizado com angular 9.
 
 ## Stack utilizada no frontend:
