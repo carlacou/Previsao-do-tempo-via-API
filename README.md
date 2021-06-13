@@ -7,7 +7,8 @@ Projeto realizado com angular 9.
 ## Stack utilizada no frontend:
 
 Angular 12
-bootstrap jquery
+
+Bootstrap Jquery
 
 ## Instale as dependencias do angular global ou localmente
 
